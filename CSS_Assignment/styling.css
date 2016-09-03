@@ -1,0 +1,23 @@
+#logoText{
+    
+    display: inline-block;
+    font-size: 200;
+}
+
+#logoImg
+{
+    
+    width: 40%;
+}
+
+#searchWordpress
+{
+    
+    height: 30px;
+}
+
+#searchImg{
+    
+    width: auto;
+    margin-top: 12px;
+}
